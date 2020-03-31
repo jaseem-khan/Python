@@ -1,0 +1,2 @@
+automation.log	configfiles  screenshots  test.txt  utilities
+base		pages	     target	  tests     venv
