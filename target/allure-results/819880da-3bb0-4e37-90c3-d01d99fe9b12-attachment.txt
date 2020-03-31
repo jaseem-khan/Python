@@ -1,0 +1,11 @@
+INFO     LoginPage:selenium_driver.py:42 Element Found
+INFO     LoginPage:selenium_driver.py:51 clicked on element with locator Login locatorType is link
+INFO     LoginPage:selenium_driver.py:42 Element Found
+INFO     LoginPage:selenium_driver.py:60 send data on element with locator //input[@id='user_email'] locatorType is xpath
+INFO     LoginPage:selenium_driver.py:42 Element Found
+INFO     LoginPage:selenium_driver.py:60 send data on element with locator //input[@id='user_password'] locatorType is xpath
+INFO     LoginPage:selenium_driver.py:42 Element Found
+INFO     LoginPage:selenium_driver.py:51 clicked on element with locator //input[@name='commit'] locatorType is xpath
+INFO     LoginPage:selenium_driver.py:42 Element Found
+INFO     LoginPage:selenium_driver.py:69 Element Found
+INFO     LoginPage:login_page.py:62 Login failed

@@ -1,0 +1,78 @@
+{
+  "a087e11810691fe36815f4d3e569a3a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "6091ecaadaacbd2f",
+      "reportUrl" : "http://localhost:8080/job/Python/19/allure/#testresult/6091ecaadaacbd2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585641425409,
+        "stop" : 1585641437232,
+        "duration" : 11823
+      }
+    }, {
+      "uid" : "e4e54b987f0c2456",
+      "reportUrl" : "http://localhost:8080/job/Python/18/allure/#testresult/e4e54b987f0c2456",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585637486102,
+        "stop" : 1585637498692,
+        "duration" : 12590
+      }
+    }, {
+      "uid" : "ff5e77fd7d5e547a",
+      "reportUrl" : "http://localhost:8080/job/Python/14/allure/#testresult/ff5e77fd7d5e547a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585635522326,
+        "stop" : 1585635535026,
+        "duration" : 12700
+      }
+    } ]
+  },
+  "18ea1f23e2e69bd8630b8ceaed2a5bcf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "6414864ea811b8b6",
+      "reportUrl" : "http://localhost:8080/job/Python/19/allure/#testresult/6414864ea811b8b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585641413575,
+        "stop" : 1585641425406,
+        "duration" : 11831
+      }
+    }, {
+      "uid" : "c29da2432955a52f",
+      "reportUrl" : "http://localhost:8080/job/Python/18/allure/#testresult/c29da2432955a52f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585637473865,
+        "stop" : 1585637486098,
+        "duration" : 12233
+      }
+    }, {
+      "uid" : "667441ce69c6cc1c",
+      "reportUrl" : "http://localhost:8080/job/Python/14/allure/#testresult/667441ce69c6cc1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585635510848,
+        "stop" : 1585635522322,
+        "duration" : 11474
+      }
+    } ]
+  }
+}

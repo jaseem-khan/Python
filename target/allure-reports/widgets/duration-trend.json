@@ -1,0 +1,22 @@
+[ {
+  "buildOrder" : 19,
+  "reportUrl" : "http://localhost:8080/job/Python/19/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 23657
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "http://localhost:8080/job/Python/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 24827
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:8080/job/Python/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 24178
+  }
+} ]

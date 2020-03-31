@@ -1,0 +1,239 @@
+{
+  "uid" : "6414864ea811b8b6",
+  "name" : "test_loginFailed",
+  "fullName" : "tests.home.login_tests.LoginTests#test_loginFailed",
+  "historyId" : "18ea1f23e2e69bd8630b8ceaed2a5bcf",
+  "time" : {
+    "start" : 1585641413575,
+    "stop" : 1585641425406,
+    "duration" : 11831
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1585641396342,
+      "stop" : 1585641396342,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "oneTimeSetUp",
+    "time" : {
+      "start" : 1585641396342,
+      "stop" : 1585641413573,
+      "duration" : 17231
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "classSetup",
+    "time" : {
+      "start" : 1585641413573,
+      "stop" : 1585641413573,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "osType",
+    "time" : {
+      "start" : 1585641396342,
+      "stop" : 1585641396342,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1585641396342,
+      "stop" : 1585641396342,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "41867762ea044e57",
+      "name" : "testLoginFailed",
+      "source" : "41867762ea044e57.png",
+      "type" : "image/png",
+      "size" : 30417
+    }, {
+      "uid" : "ac39a1befe5805cd",
+      "name" : "log",
+      "source" : "ac39a1befe5805cd.txt",
+      "type" : "text/plain",
+      "size" : 842
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "oneTimeSetUp::0",
+    "time" : {
+      "start" : 1585641437233,
+      "stop" : 1585641439366,
+      "duration" : 2133
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1585641439367,
+      "stop" : 1585641439367,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests.home"
+  }, {
+    "name" : "suite",
+    "value" : "login_tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "LoginTests"
+  }, {
+    "name" : "host",
+    "value" : "JASEEM-KHAN"
+  }, {
+    "name" : "thread",
+    "value" : "13392-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.home.login_tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "843513e931abe9fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585637473865,
+        "stop" : 1585637486098,
+        "duration" : 12233
+      }
+    }, {
+      "uid" : "8ffa807188b83c4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585635510848,
+        "stop" : 1585635522322,
+        "duration" : 11474
+      }
+    }, {
+      "uid" : "4e88d17f7fe315da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585635035652,
+        "stop" : 1585635085498,
+        "duration" : 49846
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "c29da2432955a52f",
+        "reportUrl" : "http://localhost:8080/job/Python/18/allure/#testresult/c29da2432955a52f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585637473865,
+          "stop" : 1585637486098,
+          "duration" : 12233
+        }
+      }, {
+        "uid" : "667441ce69c6cc1c",
+        "reportUrl" : "http://localhost:8080/job/Python/14/allure/#testresult/667441ce69c6cc1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585635510848,
+          "stop" : 1585635522322,
+          "duration" : 11474
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6414864ea811b8b6.json",
+  "parameterValues" : [ ]
+}
