@@ -12,7 +12,8 @@ def oneTimeSetUp(request, browser, osType):
     baseURL = "https://learn.letskodeit.com/"
     if browser == 'chrome':
 
-        driver = webdriver.Chrome(r"C:\Users\JASEEM-KHAN\workspace\drivers\chromedriver.exe")
+        chrome_options = webdriver.ChromeOptions()
+        driver = webdriver.Remote(command_executor='http://localhost:4444/wd/hub', options=chrome_options)
         driver.maximize_window()
         driver.implicitly_wait(3)
         driver.get(baseURL)

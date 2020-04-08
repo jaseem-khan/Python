@@ -5,26 +5,26 @@
     "name" : "tests.home.login_tests",
     "children" : [ {
       "name" : "test_loginFailed",
-      "uid" : "6414864ea811b8b6",
+      "uid" : "a0c74c2f9be2ad10",
       "parentUid" : "ae5ec602cf5a3c2b11f33092c0bb5892",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1585641413575,
-        "stop" : 1585641425406,
-        "duration" : 11831
+        "start" : 1586336389103,
+        "stop" : 1586336389103,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "test_validLogin",
-      "uid" : "6091ecaadaacbd2f",
+      "uid" : "76ffbdd420bb1735",
       "parentUid" : "ae5ec602cf5a3c2b11f33092c0bb5892",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1585641425409,
-        "stop" : 1585641437232,
-        "duration" : 11823
+        "start" : 1586336407525,
+        "stop" : 1586336407525,
+        "duration" : 0
       },
       "flaky" : false,
       "newFailed" : false,

@@ -2,13 +2,68 @@
   "a087e11810691fe36815f4d3e569a3a8" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 2
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "f834dca5f700a64b",
+      "reportUrl" : "http://localhost:8080/job/Python/25/allure/#testresult/f834dca5f700a64b",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DE1255E6C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "time" : {
+        "start" : 1586336384542,
+        "stop" : 1586336384542,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8004cba5a10934fc",
+      "reportUrl" : "http://localhost:8080/job/Python/24/allure/#testresult/8004cba5a10934fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585990375569,
+        "stop" : 1585990389208,
+        "duration" : 13639
+      }
+    }, {
+      "uid" : "fedd37ad8214a7fc",
+      "reportUrl" : "http://localhost:8080/job/Python/23/allure/#testresult/fedd37ad8214a7fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585990375569,
+        "stop" : 1585990389208,
+        "duration" : 13639
+      }
+    }, {
+      "uid" : "6aa974c471915913",
+      "reportUrl" : "http://localhost:8080/job/Python/22/allure/#testresult/6aa974c471915913",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585990375569,
+        "stop" : 1585990389208,
+        "duration" : 13639
+      }
+    }, {
+      "uid" : "e97c04d1fca1eacc",
+      "reportUrl" : "http://localhost:8080/job/Python/20/allure/#testresult/e97c04d1fca1eacc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585662402837,
+        "stop" : 1585662418477,
+        "duration" : 15640
+      }
+    }, {
+      "uid" : "6091ecaadaacbd2f",
+      "reportUrl" : "http://localhost:8080/job/Python/19/allure/#testresult/6091ecaadaacbd2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585641425409,
+        "stop" : 1585641437232,
+        "duration" : 11823
+      }
+    }, {
       "uid" : "e4e54b987f0c2456",
       "reportUrl" : "http://localhost:8080/job/Python/18/allure/#testresult/e4e54b987f0c2456",
       "status" : "passed",
@@ -31,13 +86,68 @@
   "18ea1f23e2e69bd8630b8ceaed2a5bcf" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 2
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "5a5b45caaa1d8b49",
+      "reportUrl" : "http://localhost:8080/job/Python/25/allure/#testresult/5a5b45caaa1d8b49",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DE1255E6C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "time" : {
+        "start" : 1586336366306,
+        "stop" : 1586336366306,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fe818e6a830e18e8",
+      "reportUrl" : "http://localhost:8080/job/Python/24/allure/#testresult/fe818e6a830e18e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585990362549,
+        "stop" : 1585990375562,
+        "duration" : 13013
+      }
+    }, {
+      "uid" : "ce656f819b17569c",
+      "reportUrl" : "http://localhost:8080/job/Python/23/allure/#testresult/ce656f819b17569c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585990362549,
+        "stop" : 1585990375562,
+        "duration" : 13013
+      }
+    }, {
+      "uid" : "112a22ef9aa51c0f",
+      "reportUrl" : "http://localhost:8080/job/Python/22/allure/#testresult/112a22ef9aa51c0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585990362549,
+        "stop" : 1585990375562,
+        "duration" : 13013
+      }
+    }, {
+      "uid" : "1f49dd182dc0793a",
+      "reportUrl" : "http://localhost:8080/job/Python/20/allure/#testresult/1f49dd182dc0793a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585662387000,
+        "stop" : 1585662402830,
+        "duration" : 15830
+      }
+    }, {
+      "uid" : "6414864ea811b8b6",
+      "reportUrl" : "http://localhost:8080/job/Python/19/allure/#testresult/6414864ea811b8b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585641413575,
+        "stop" : 1585641425406,
+        "duration" : 11831
+      }
+    }, {
       "uid" : "c29da2432955a52f",
       "reportUrl" : "http://localhost:8080/job/Python/18/allure/#testresult/c29da2432955a52f",
       "status" : "passed",

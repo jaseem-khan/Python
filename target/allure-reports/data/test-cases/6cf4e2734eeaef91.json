@@ -1,144 +1,144 @@
 {
-  "uid" : "843513e931abe9fa",
-  "name" : "test_loginFailed",
-  "fullName" : "tests.home.login_tests.LoginTests#test_loginFailed",
-  "historyId" : "18ea1f23e2e69bd8630b8ceaed2a5bcf",
+  "uid" : "6cf4e2734eeaef91",
+  "name" : "test_validLogin",
+  "fullName" : "tests.home.login_tests.LoginTests#test_validLogin",
+  "historyId" : "a087e11810691fe36815f4d3e569a3a8",
   "time" : {
-    "start" : 1585637473865,
-    "stop" : 1585637486098,
-    "duration" : 12233
+    "start" : 1585641425409,
+    "stop" : 1585641437232,
+    "duration" : 11823
   },
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
-    "name" : "oneTimeSetUp",
+    "name" : "browser",
     "time" : {
-      "start" : 1585637455604,
-      "stop" : 1585637473864,
-      "duration" : 18260
+      "start" : 1585641396342,
+      "stop" : 1585641396342,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "oneTimeSetUp",
+    "time" : {
+      "start" : 1585641396342,
+      "stop" : 1585641413573,
+      "duration" : 17231
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
   }, {
     "name" : "osType",
     "time" : {
-      "start" : 1585637455604,
-      "stop" : 1585637455604,
+      "start" : 1585641396342,
+      "stop" : 1585641396342,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
-  }, {
-    "name" : "_UnitTestCase__pytest_class_setup",
-    "time" : {
-      "start" : 1585637455604,
-      "stop" : 1585637455604,
-      "duration" : 0
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
     "hasContent" : false,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
-  }, {
-    "name" : "browser",
-    "time" : {
-      "start" : 1585637455604,
-      "stop" : 1585637455604,
-      "duration" : 0
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "stepsCount" : 0
   }, {
     "name" : "classSetup",
     "time" : {
-      "start" : 1585637473864,
-      "stop" : 1585637473864,
+      "start" : 1585641425408,
+      "stop" : 1585641425408,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1585641396342,
+      "stop" : 1585641396342,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "6765200f458fdd62",
-      "name" : "testLoginFailed",
-      "source" : "6765200f458fdd62.png",
+      "uid" : "a98217138c6a0d1c",
+      "name" : "HomeScreen",
+      "source" : "a98217138c6a0d1c.png",
       "type" : "image/png",
-      "size" : 30417
+      "size" : 75485
     }, {
-      "uid" : "df69fee8aeafafa2",
+      "uid" : "72c6db995e3caf51",
       "name" : "log",
-      "source" : "df69fee8aeafafa2.txt",
+      "source" : "72c6db995e3caf51.txt",
       "type" : "text/plain",
-      "size" : 842
+      "size" : 683
     } ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : true,
     "attachmentsCount" : 2,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
   },
   "afterStages" : [ {
     "name" : "oneTimeSetUp::0",
     "time" : {
-      "start" : 1585637498693,
-      "stop" : 1585637500798,
-      "duration" : 2105
+      "start" : 1585641437233,
+      "stop" : 1585641439366,
+      "duration" : 2133
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
   }, {
     "name" : "_UnitTestCase__pytest_class_setup::0",
     "time" : {
-      "start" : 1585637500799,
-      "stop" : 1585637500799,
+      "start" : 1585641439367,
+      "stop" : 1585641439367,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "labels" : [ {
     "name" : "severity",
@@ -157,7 +157,7 @@
     "value" : "JASEEM-KHAN"
   }, {
     "name" : "thread",
-    "value" : "14780-MainThread"
+    "value" : "13392-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -179,6 +179,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "843513e931abe9fa.json",
+  "source" : "6cf4e2734eeaef91.json",
   "parameterValues" : [ ]
 }

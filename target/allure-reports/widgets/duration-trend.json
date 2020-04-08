@@ -1,4 +1,46 @@
 [ {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/Python/26/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 18422
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/Python/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 18236
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:8080/job/Python/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 26659
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:8080/job/Python/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 26659
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/Python/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 26659
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "http://localhost:8080/job/Python/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31477
+  }
+}, {
   "buildOrder" : 19,
   "reportUrl" : "http://localhost:8080/job/Python/19/allure",
   "reportName" : "AllureReport",

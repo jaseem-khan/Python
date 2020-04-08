@@ -189,3 +189,41 @@
 03/31/2020 01:27:08 PM - LoginPage - INFO: send data on element with locator //input[@id='user_password'] locatorType is xpath
 03/31/2020 01:27:08 PM - LoginPage - INFO: Element Found
 03/31/2020 01:27:13 PM - LoginPage - INFO: clicked on element with locator //input[@name='commit'] locatorType is xpath
+03/31/2020 07:16:28 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:28 PM - LoginPage - INFO: clicked on element with locator Login locatorType is link
+03/31/2020 07:16:37 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:37 PM - LoginPage - INFO: send data on element with locator //input[@id='user_email'] locatorType is xpath
+03/31/2020 07:16:37 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:37 PM - LoginPage - INFO: send data on element with locator //input[@id='user_password'] locatorType is xpath
+03/31/2020 07:16:37 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:39 PM - LoginPage - INFO: clicked on element with locator //input[@name='commit'] locatorType is xpath
+03/31/2020 07:16:42 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:42 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:42 PM - LoginPage - INFO: Login failed
+03/31/2020 07:16:44 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:44 PM - LoginPage - INFO: clicked on element with locator Login locatorType is link
+03/31/2020 07:16:48 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:49 PM - LoginPage - INFO: send data on element with locator //input[@id='user_email'] locatorType is xpath
+03/31/2020 07:16:49 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:49 PM - LoginPage - INFO: send data on element with locator //input[@id='user_password'] locatorType is xpath
+03/31/2020 07:16:49 PM - LoginPage - INFO: Element Found
+03/31/2020 07:16:55 PM - LoginPage - INFO: clicked on element with locator //input[@name='commit'] locatorType is xpath
+04/04/2020 02:22:44 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:44 PM - LoginPage - INFO: clicked on element with locator Login locatorType is link
+04/04/2020 02:22:49 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:49 PM - LoginPage - INFO: send data on element with locator //input[@id='user_email'] locatorType is xpath
+04/04/2020 02:22:49 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:49 PM - LoginPage - INFO: send data on element with locator //input[@id='user_password'] locatorType is xpath
+04/04/2020 02:22:49 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:52 PM - LoginPage - INFO: clicked on element with locator //input[@name='commit'] locatorType is xpath
+04/04/2020 02:22:55 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:55 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:55 PM - LoginPage - INFO: Login failed
+04/04/2020 02:22:57 PM - LoginPage - INFO: Element Found
+04/04/2020 02:22:57 PM - LoginPage - INFO: clicked on element with locator Login locatorType is link
+04/04/2020 02:22:59 PM - LoginPage - INFO: Element Found
+04/04/2020 02:23:00 PM - LoginPage - INFO: send data on element with locator //input[@id='user_email'] locatorType is xpath
+04/04/2020 02:23:00 PM - LoginPage - INFO: Element Found
+04/04/2020 02:23:00 PM - LoginPage - INFO: send data on element with locator //input[@id='user_password'] locatorType is xpath
+04/04/2020 02:23:00 PM - LoginPage - INFO: Element Found
+04/04/2020 02:23:05 PM - LoginPage - INFO: clicked on element with locator //input[@name='commit'] locatorType is xpath

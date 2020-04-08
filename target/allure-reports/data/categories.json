@@ -1,5 +1,39 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=4444): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EBACE49248>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "children" : [ {
+        "name" : "test_loginFailed",
+        "uid" : "a0c74c2f9be2ad10",
+        "parentUid" : "74b3d738d87b9bac637728f940ada20c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586336389103,
+          "stop" : 1586336389103,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_validLogin",
+        "uid" : "76ffbdd420bb1735",
+        "parentUid" : "74b3d738d87b9bac637728f940ada20c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1586336407525,
+          "stop" : 1586336407525,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74b3d738d87b9bac637728f940ada20c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
 }

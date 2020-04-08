@@ -1,3 +1,4 @@
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from pages.home.login_page import LoginPage
@@ -8,10 +9,11 @@ import time
 import allure
 from allure_commons.types import AttachmentType
 
+
 @allure.severity(allure.severity_level.NORMAL)
 @pytest.mark.usefixtures("oneTimeSetUp")
 class LoginTests(unittest.TestCase):
-    
+
     @pytest.fixture(autouse=True)
     def classSetup(self):
         self.lp = LoginPage(self.driver)
@@ -36,5 +38,3 @@ class LoginTests(unittest.TestCase):
         result = self.lp.verifyLoginFailed()
         assert result == True
         allure.attach(self.driver.get_screenshot_as_png(), name="testLoginFailed", attachment_type=AttachmentType.PNG)
-
-
